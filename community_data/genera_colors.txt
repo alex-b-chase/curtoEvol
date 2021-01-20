@@ -1,0 +1,17 @@
+variable	color
+NA.	#D3D3D3
+Sphingomonas..a.Proteo.	#ADFF2F
+Collinsella..Actino.	#4682B4
+Microbacterium..Actino.	#87CEFA
+Modestobacter..Actino.	#0000FF
+Granulicella..Acido.	#FF00FF
+Curtobacterium..Actino.	#00FFFF
+Halomonas..g.Proteo.	#556B2F
+Blastococcus..Actino..	#000080
+Nocardioides..Actino.	#6495ED
+Pseudomonas..g.Proteo.	#006400
+Massilia..b.Proteo.	#2E8B57
+Methylobacterium..a.Proteo.	#32CD32
+Terriglobus..Acido.	#DDA0DD
+Pedobacter..Bact.	#FF0000
+Other	#808080

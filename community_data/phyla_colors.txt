@@ -1,0 +1,10 @@
+variable	color
+Proteobacteria	#00FF00
+Actinobacteria	#0000FF
+Bacteroidetes	#FF0000
+Firmicutes	#800080
+Acidobacteria	#FF00FF
+NA.	#D3D3D3
+Cyanobacteria	#FFA500
+Spirochaetes	#F0E68C
+Other	#808080
