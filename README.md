@@ -15,7 +15,7 @@ We hypothesized that not only are particular 16S-defined taxa correlated to some
 2. Conducted an in situ evolution experiment by transplanting an isogenic Curtobacterium strain across the same gradient to assess the potential for rapid evolution on the same timescales
 
 <p align="center">
-  <img width="860" height="400" src="images/figure1_commMDS-01.png">
+  <img width="860" height="300" src="images/figure1_commMDS-01.png">
 </p>
 
 We chose to focus on the abundant soil bacterium, Curtobacterium, for several reasons:
@@ -39,7 +39,7 @@ We chose to focus on the abundant soil bacterium, Curtobacterium, for several re
 The elevation gradient spans five ecosystems ranging from Desert to Subalpine plant communities. The five study sites span an elevation gradient that varies in climate (temperature and precipitation), plant vegetation and the leaf litter chemistry, and microbial community composition in the leaf litter layer of soil.
 
 <p align="center">
-  <img width="860" height="400" src="images/gradient_environdata-01.png">
+  <img width="860" height="350" src="images/gradient_environdata-01.png">
 </p>
 
 
